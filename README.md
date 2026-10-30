@@ -42,7 +42,6 @@ As citações foram consultadas no NotebookLM para conferir sua correspondência
 
 ## 📂 Materiais gerados
 
-- `guia_estudos_ciberseguranca.pdf` — conteúdo de estudo e revisão.
 - `mapa_mental_ciberseguranca.png` — organização visual dos conceitos.
 - `apresentacao_ciberseguranca.pdf` — apresentação dos principais conteúdos.
 
